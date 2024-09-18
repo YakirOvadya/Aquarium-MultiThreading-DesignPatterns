@@ -10,7 +10,7 @@ It showcases the use of **design patterns** such as:
 - **Factory Method**: Used to create different types of fish dynamically at runtime.
 - **Abstract Factory**: Provides an interface for creating families of related objects, such as different species of sea creatures.
 - **Decorator**: Allows fish to dynamically change their appearance or behavior (e.g., adding decorative elements or traits like speed).
-- **State**: Manages the internal state of each fish (e.g., swimming, eating, resting) and allows them to change behavior based on their current state.
+- **State**: Manages the internal state of each fish or jellyfish (swimming, eating) and allows them to change behavior based on their current state.
 
 Additionally, the project contains other important design patterns that are crucial for efficient resource management and ensuring smooth fish and Aquarium "behavior".
 
